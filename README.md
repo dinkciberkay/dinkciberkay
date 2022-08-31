@@ -6,5 +6,6 @@ I’m a computer engineer. I love to learn new things and share what I have lear
 🌱 I’m currently learning JavaEE technologies.
 
 ✨ My interests:
-    Front-end: HTML5, CSS3, ,JavaScript, ReactJS and Redux
     Back-end: Java, Spring, PostgreSQL 
+    Front-end: JavaScript, ReactJS and Redux, JSP
+    
